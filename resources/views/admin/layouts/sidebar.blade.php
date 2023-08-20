@@ -121,6 +121,16 @@
 				<div class="menu-title">pantalla Listo</div>
 			</a>
 		</li> 
+
+			<li>
+			<a href="{{url('/listo')}}" class="pt-1 pb-1 ">
+				<div class="parent-icon">
+					<i class='bx bx-collection'></i> <span id="r_juegos_" class="alert-count"  style="display: none;  transform: translate(5px,-3px);" ></span>
+				</div>
+				<div class="menu-title">pantalla Listo</div>
+			</a>
+		</li> 
+		
 		
 	</ul> 
 	<br>
