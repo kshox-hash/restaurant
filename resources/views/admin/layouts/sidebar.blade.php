@@ -46,7 +46,7 @@
 			</a>
 		</li> 
 		<li>
-			<a href="{{url('/listmesas')}}" class="pt-1 pb-1 ">
+			<a href="{{url('/orden')}}" class="pt-1 pb-1 ">
 				<div class="parent-icon">
 					<i class='bx bx-collection'></i>
 				</div>

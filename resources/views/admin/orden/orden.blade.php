@@ -104,8 +104,7 @@
                 <div class="card-header">  
                     <div class="d-flex flex-column flex-sm-row justify-content-between">
                         <div class="mx-1 mb-2">
-                          <input type="hidden" id="id_mesa" value="{{$mesa->id}}">
-                          <input type="text" class="form-control" readonly  value="{{$mesa->nombre}}">
+                        
                         </div>
                         <div class="mx-1 mb-2">
                           <input type="text" value="" class="form-control" id="valtotal" disabled>
