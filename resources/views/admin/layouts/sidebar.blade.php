@@ -63,22 +63,7 @@
 			</a>
 		</li>  
 		 
-		<li>
-			<a href="{{url('/prestamos')}}" class="pt-1 pb-1 ">
-				<div class="parent-icon">
-					<i class='bx bx-collection'></i>
-				</div>
-				<div class="menu-title">Gestionar Prestamos</div>
-			</a>
-		</li>  
-		<li>
-			<a href="{{url('/deudas')}}" class="pt-1 pb-1 ">
-				<div class="parent-icon">
-					<i class='bx bx-collection'></i>
-				</div>
-				<div class="menu-title">Gestionar Deudas</div>
-			</a>
-		</li>   
+
 		<li class="menu-label pt-1">CHEF</li>
 		<li>
 			<a href="{{url('/cocina')}}" class="pt-1 pb-1 ">
@@ -105,25 +90,7 @@
 				<div class="menu-title">Reporte Repartidor</div>
 			</a>
 		</li> 
-		<li>
-			<a href="{{url('/preparando')}}" class="pt-1 pb-1 ">
-				<div class="parent-icon">
-					<i class='bx bx-collection'></i> <span id="r_juegos_" class="alert-count"  style="display: none;  transform: translate(5px,-3px);" ></span>
-				</div>
-				<div class="menu-title">pantalla Preparando</div>
-			</a>
-		</li> 
-		<li>
-			<a href="{{url('/listo')}}" class="pt-1 pb-1 ">
-				<div class="parent-icon">
-					<i class='bx bx-collection'></i> <span id="r_juegos_" class="alert-count"  style="display: none;  transform: translate(5px,-3px);" ></span>
-				</div>
-				<div class="menu-title">pantalla Listo</div>
-			</a>
-		</li> 
-
-		
-		
+	
 	</ul> 
 	<br>
 	<br>
